@@ -1,5 +1,5 @@
 {
-	"templateId": "product",
+	"templateId": "github.com/EmissarySocial/template-stripe-checkout/product",
 	"label": "Product",
 	"description": "Sell products online",
 	"icon": "shopping-cart",
